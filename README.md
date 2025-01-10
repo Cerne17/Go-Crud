@@ -9,3 +9,7 @@ Note: to run the main.go file, use: `go run main.go`
 ```bash
 go get github.com/julienschmidt/httprouter
 ```
+## 4. Create Config
+```bash
+go get github.com/lib/pq
+```
