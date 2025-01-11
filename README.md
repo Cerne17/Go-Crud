@@ -13,3 +13,5 @@ go get github.com/julienschmidt/httprouter
 ```bash
 go get github.com/lib/pq
 ```
+## 5. Create Model
+Also refered as Entity, represents a table in the application's database
